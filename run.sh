@@ -1,1 +1,1 @@
-FLASK_APP=Belly_Button_Diversity/app.py flask run
+FLASK_APP=Belly-Button-Diversity/app.py flask run
