@@ -65,7 +65,8 @@ function buildCharts(sample) {
         values: values,
         labels: labels,
         hovertext: hover,
-        type: 'pie'
+        type: 'pie',
+        hole: 0.4
       }];
 
       Plotly.newPlot('pie', data)
